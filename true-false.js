@@ -8,7 +8,7 @@
 //truthy
 //"0",number," ", [],{}
 
-const age = 0;
+const age = "";
 if(age || age==0){
     console.log("condition is true");
 }
