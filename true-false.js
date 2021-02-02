@@ -8,8 +8,10 @@
 //truthy
 //"0",number," ", [],{}
 
-const age = "";
-if(age || age==0){
+const fNum = 3;
+const lNum = 2;
+
+if(fNum){
     console.log("condition is true");
 }
 else{
